@@ -1,4 +1,24 @@
-# Hey Everyone! 👋
+# Hey Everyone! I'm [Siddharth Mishra!](https://hard-coder05.github.io/) 👋
+<a href="https://twitter.com/im_siddhart">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/smishra1605">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Hard-Coder05">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/_im_siddharth/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100035680522536">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br/>
+<br/>
 
 I am a tech enthusiast interested in Development of Mobile Apps using Flutter and JAVA.
 
