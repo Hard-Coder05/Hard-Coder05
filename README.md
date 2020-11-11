@@ -26,7 +26,7 @@
 
 - 🔭 <samp>I’m currently learning flutter and doing competitive programming.
 - ✍🏻 <samp>I’m Media and OutReach Lead @CodeChef NITRR Chapter and Core Team Member [@FaceBook Developer Circles Raipur](https://www.facebook.com/groups/DevCRaipur/) 
-- 🥇 <samp>Will be updating achievements later.
+- 🥇 <samp>Rank 1 @CodeUtsava 2.0 Hackathon || National Finalist @SIH2020 || 
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
 - 💬 <samp>Ask me about Flutter
 - 🤔 <samp>I’m looking for help with How to excel in Competitive Programming.
