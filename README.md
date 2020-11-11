@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Siddharth Mishra!](https://hard-coder05.github.io/) 👋
+# Hey Everyone! I'm [Siddharth Mishra!](https://hard-coder05.github.io/) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <a href="https://twitter.com/im_siddhart">
   <img align="left" alt="Siddharth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -19,14 +19,20 @@
 </a>
 <br/>
 <br/>
+<p align="center"><h4 align="center"><samp> A Flutter Developer, An Open Source Contributor & A Competitive Programmer </samp></h4></p>
 
-I am a tech enthusiast interested in Development of Mobile Apps using Flutter and JAVA.
+<div>
+<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-I am an avid learner who is enthusiastic about learning something new each and every day. On the whole, I love to code and am an enthusiastic coder.
-
-I am skilled in C++, Flutter, Dart, JAVA, Python, HTML, CSS and PHP. I am also a competitive programmer. Looking forward to exploring Machine Learning, Deep Learning and Artificial Intelligence in near future to quench my interests in Mathematics!
-
-When I am not coding, I love playing some games, listening to songs or simply sitting somewhere in the lap of nature doing nothing or embracing it.
+- 🔭 <samp>I’m currently learning flutter and doing competitive programming.
+- ✍🏻 <samp>I’m Media and OutReach Lead @CodeChef NITRR Chapter and Core Team Member [@FaceBook Developer Circles Raipur](https://www.facebook.com/groups/DevCRaipur/) 
+- 🥇 <samp>Will be updating achievements later.
+- 👯 <samp>I’m looking to collaborate on **Open Source Projects**
+- 💬 <samp>Ask me about Flutter
+- 🤔 <samp>I’m looking for help with How to excel in Competitive Programming.
+- 😄 <samp>Pronouns: He/His
+- ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
+</div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hard-Coder05&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/Hard-Coder05/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Coder05&hide=html,css,javascript)](https://github.com/Hard-Coder05/github-readme-stats-1)
 
@@ -39,25 +45,9 @@ When I am not coding, I love playing some games, listening to songs or simply si
 <summary>
   More stuff about me
 </summary>
-  
   ## My skills 📜
 - Flutter
 - Dart
 - JAVA
 - Android Mobile Application Development
-
-</details>  
-<!--
-**Hard-Coder05/Hard-Coder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
