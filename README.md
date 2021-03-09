@@ -24,12 +24,12 @@
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently learning JAVA and doing competitive programming.
-- ✍🏻 <samp>I’m Media and OutReach Lead @CodeChef NITRR Chapter and Core Team Member [@FaceBook Developer Circles Raipur](https://www.facebook.com/groups/DevCRaipur/) 
-- 🥇 <samp>Rank 1 @CodeUtsava 2.0 Hackathon || National Finalist @SIH2020 || 
-- 👯 <samp>I’m looking to collaborate on **Open Source Projects**
+- 🔭 <samp>I’m currently building MARBLE with flutter and doing competitive programming.
+- ✍🏻 <samp>I’m Media and OutReach Lead @CodeChef NITRR Chapter, Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/) and Core Team Member [@FaceBook Developer Circles Raipur](https://www.facebook.com/groups/DevCRaipur/) 
+- 🥇 <samp>Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon || National Finalist @SIH2020
+- 👯 <samp>I’m currently doing internship at Marble AI as Flutter Developer.
 - 💬 <samp>Ask me about Flutter
-- 🤔 <samp>I’m looking for help with How to excel in Competitive Programming.
+- 🤔 <samp>I’m looking for help with Dynamic Programming and Graph Algorithms
 - 😄 <samp>Pronouns: He/His
 - ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
 </div>
@@ -40,8 +40,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff) 
 ![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
