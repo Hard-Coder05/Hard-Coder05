@@ -1,5 +1,6 @@
 # Hey Everyone! I'm [Siddharth Mishra!](https://hard-coder05.github.io/) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
+<h4><b><samp>Connect with me</samp></b></h4>
 <a href="https://twitter.com/im_siddhart">
   <img align="left" alt="Siddharth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
