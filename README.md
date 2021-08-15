@@ -24,12 +24,12 @@
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently doing Competitive Programming and focusing on DSA.
-- ✍🏻 <samp>I’m Media and OutReach Lead @CodeChef NITRR Chapter, Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/) , Core Team Member [@FaceBook Developer Circles Raipur](https://www.facebook.com/groups/DevCRaipur/) and Core Team Member [@FOSS NITRR](https://github.com/FOSSNITRR)
-- 🥇 <samp>Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon || National Finalist @SIH2020
-- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [TEESCO App](https://github.com/ECellNitrr/teesco-app) ; [MarbleAI App](https://marble-ai.com/) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
+- 🔭 <samp>I’m currently learning Web Frontend Development.
+- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
+- 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
+- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [MarbleAI App](https://marble-ai.com/) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
 - 💬 <samp>Ask me about Flutter and DSA
-- 🤔 <samp>I’m looking for help with nothing as of now
+- 🤔 <samp>I’m looking for help with web dev
 - 😄 <samp>Pronouns: He/His
 - ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
 </div>
@@ -59,6 +59,7 @@
 ##
 
 <h4><b><samp>Frameworks</samp></b></h4>
+working on that part .... will be added soon...
 
 ##
 
