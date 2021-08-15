@@ -1,26 +1,24 @@
 # Hey Everyone! I'm [Siddharth Mishra!](https://hard-coder05.github.io/) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 <h4><b><samp>Connect with me</samp></b></h4>
-<a href="https://twitter.com/im_siddhart">
-  <img align="left" alt="Siddharth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/smishra1605">
-  <img align="left" alt="Siddharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Hard-Coder05">
-  <img align="left" alt="Siddharth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/_im_siddharth/">
-  <img align="left" alt="Siddharth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100035680522536">
-  <img align="left" alt="Siddharth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ">
-  <img align="left" alt="Siddharth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smishra1605)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_siddhart)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_gappa_gol/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035680522536)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ)
+
 <br/>
 <br/>
+
+<h4><b><samp>Coding Profiles</samp></b></h4>
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Hard-Coder05/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hard__coder)
+
+<br/><br/>
+
 <p align="center"><h4 align="center"><samp> A Flutter Developer, An Open Source Contributor & A Competitive Programmer </samp></h4></p>
 
 <div>
@@ -38,23 +36,43 @@
 
 ##
 
-<h4><b><samp>Frameworks and Languages</samp></b></h4>
+<h4><b><samp>Languages</samp></b></h4>
 
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ##
 
-<h4><b><samp>Tools and Platform</samp></b></h4>
+<h4><b><samp>Mobile Frameworks</samp></b></h4>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+##
+
+<h4><b><samp>Database</samp></b></h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+##
+
+<h4><b><samp>Frameworks</samp></b></h4>
+
+##
+
+<h4><b><samp>Tools </samp></b></h4>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+##
+
+<h4><b><samp>IDE</samp></b></h4>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 
 ## Github Stats
