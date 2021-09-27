@@ -8,9 +8,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035680522536)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ)
 
-<br/>
-<br/>
-
 <h4><b><samp>Coding Profiles</samp></b></h4>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
@@ -19,7 +16,7 @@
 
 <br/><br/>
 
-<p align="center"><h4 align="center"><samp> A Flutter Developer, An Open Source Contributor & A Competitive Programmer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> Flutter and React Developer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
