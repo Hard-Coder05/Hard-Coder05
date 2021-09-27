@@ -59,7 +59,9 @@
 ##
 
 <h4><b><samp>Frameworks</samp></b></h4>
-working on that part .... will be added soon...
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ##
 
