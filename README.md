@@ -8,6 +8,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100035680522536)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA5u7UsgPS-aJqOjQoQPjPQ)
 
+<h4><b><samp>Blogs</samp></b></h4>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@smishra1605)
+
 <h4><b><samp>Coding Profiles</samp></b></h4>
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
@@ -21,10 +25,10 @@
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently learning Web Frontend Development.
+- 🔭 <samp>I’m currently learning React.
 - ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
 - 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
-- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [MarbleAI App](https://marble-ai.com/) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
+- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
 - 💬 <samp>Ask me about Flutter and DSA
 - 🤔 <samp>I’m looking for help with web dev
 - 😄 <samp>Pronouns: He/His
