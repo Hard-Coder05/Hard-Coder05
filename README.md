@@ -17,22 +17,24 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hard_coder05)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Hard-Coder05/)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/hard__coder)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hard-Coder05)
 
 <br/><br/>
 
-<p align="center"><h4 align="center"><samp> Flutter and React Developer </samp></h4></p>
+<p align="center"><h2 align="center"><samp> Flutter and React Developer </samp></h2></p>
 
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently learning React.
-- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Executive [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
-- 🥇 <samp>National Finalist @SIH2020 || Rank 1 @CodeUtsava 2.0 Hackathon || Rank 2 @IEEE-APSIT Hackathon
-- 👯 <samp>Major Contributions: [E-Cell App](https://github.com/ECellNitrr/ECellApp2021) ; [VaxU App](https://github.com/sahil9001/VaxU_Base)
-- 💬 <samp>Ask me about Flutter and DSA
-- 🤔 <samp>I’m looking for help with web dev
+- 🔭 <samp>I’m currently learning Java, Spring and MyBatis.
+- ✍🏻 <samp>I’m Training and Placement Coordinator at [NIT Raipur](http://nitrr.ac.in/) and Technical Manager [Entrepreneurship Cell, NIT Raipur](https://ecell.nitrr.ac.in/).
+- 🥇 <samp>Rank 3 @CodeUtsava 3.0 Hackathon 2022 || National Finalist @SIH2020 || PS Rank 1 @CodeUtsava 2.0 Hackathon 2019 || Rank 2 @IEEE-APSIT Hackathon
+- 👯 <samp>Internships: Arcesium(D.E. Shaw) ; Contxt.io ; Atom App ; Marble Ai
+- 💬 <samp>Ask me about React and Redux
+- 🤔 <samp>I’m looking for help with Java
 - 😄 <samp>Pronouns: He/His
 - ⚡ <samp>Fun fact: If u r my friend I will roast you till u burn.
+
 </div>
 
 ##
@@ -40,10 +42,11 @@
 <h4><b><samp>Languages</samp></b></h4>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ##
 
@@ -62,6 +65,9 @@
 <h4><b><samp>Frameworks</samp></b></h4>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ##
@@ -92,7 +98,11 @@
 
 ##
 
-<p align="center"> 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Hard-Coder05)
+
+##
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hard-Coder05/count.svg" />
 </p>
